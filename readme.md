@@ -17,4 +17,4 @@
 - あとで自分で見返しても有用．
 
 ## URL
- https://haga-yosuke.github.io/cheese-academy/
+ https://haga-yosuke.github.io/cheese-academy/index.html
